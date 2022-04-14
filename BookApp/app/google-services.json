@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33500017028",
+    "project_id": "book-app-d71be",
+    "storage_bucket": "book-app-d71be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33500017028:android:26f129ee901d7fd3ce2dd1",
+        "android_client_info": {
+          "package_name": "com.technifysoft.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33500017028-1re2s8r92f56tp7nno40ls3ulv9s3vl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJ3dooW7KCul0RE7l-3q_uYhR3tnDYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33500017028-1re2s8r92f56tp7nno40ls3ulv9s3vl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
